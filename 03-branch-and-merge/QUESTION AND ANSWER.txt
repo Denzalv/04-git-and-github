@@ -20,7 +20,7 @@ Answer
 4. Tidak ada yang benar atau salah tapi Perbedaanya adalah Fast forward Merge memiliki history line yang lurus,
    sedangkan rekrusive merge history line nya terdiri dari beberapa garis.
 5. git checkout namaBranch
-6. git rm
+6. git checkout dan git clean
 7. git branch -d namaBranch
 8. adalah fungsi yang mengambil dua set data inpput dan outputnya merupakah perubahan diantara keduanya
 9. git reset HEAD -- path/to/file atau git reset HEAD -- .
